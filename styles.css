@@ -39,9 +39,9 @@ html {
 }
 
 body {
-    background: url(images/bg-pattern-bottom-desktop.svg) right bottom, url(images/bg-pattern-top-desktop.svg)  left top ;
+    background: url(images/bg-pattern-bottom-desktop.svg) right bottom, url(images/bg-pattern-top-desktop.svg)  left top;
     background-repeat: no-repeat;
-    background-size: 50%;
+
     font-family: 'Spartan', sans-serif;
 }      
 
