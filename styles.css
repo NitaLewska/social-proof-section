@@ -39,9 +39,8 @@ html {
 }
 
 body {
-    background: url(images/bg-pattern-bottom-desktop.svg) right bottom, url(images/bg-pattern-top-desktop.svg)  left top;
+    background: url(images/bg-pattern-bottom-desktop.svg) right bottom, url(images/bg-pattern-top-desktop.svg) left top;
     background-repeat: no-repeat;
-
     font-family: 'Spartan', sans-serif;
 }      
 
@@ -181,7 +180,7 @@ h1 + p {
 }
 
 .attribution {
-    margin-top: 45px;
+    margin-top: 20px;
     font-size: 11px;
     text-align: center;
   }
