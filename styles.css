@@ -42,7 +42,7 @@ body {
     background: url(images/bg-pattern-bottom-desktop.svg) right bottom, url(images/bg-pattern-top-desktop.svg) left top;
     background-repeat: no-repeat;
     font-family: 'Spartan', sans-serif;
-    min-height: 100vh;
+    min-height: 90vh;
 }      
 
 h1 {
@@ -192,7 +192,7 @@ h1 + p {
 @media (max-width: 1150px) {
     body{
         margin: 0 auto;
-        background: url(images/bg-pattern-bottom-desktop.svg) right bottom, url(images/bg-pattern-top-desktop.svg)  left top ;
+        background: url(images/bg-pattern-bottom-desktop.svg) right bottom, url(images/bg-pattern-top-desktop.svg)  left top  ;
         background-repeat: no-repeat;
         background-size: 100%;
     }
